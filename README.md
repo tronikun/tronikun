@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=¡Hola!%20Soy%20Toni&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hola%20Soy%20Toni&height=100&section=header"/>
 </p>
 
 <h1 align="center">Diseño workflows y entrenamiento de identidad con IA generativa</h1>
@@ -22,10 +23,11 @@
 
 ```yaml
 nombre: Toni
-ubicacion: Monterrey, Nuevo León, México
+ubicacion: CDMX / Monterrey · Remoto
 rol_actual: Técnico IT y AI Trainer freelance
 formacion:
   [
+    "Técnico en Informática - CBT No. 4, CDMX",
     "7+ años en soporte técnico Apple (certificaciones ACMT, ACIT)",
     "Desarrollo backend - Oracle Next Education (Java / Spring Boot)",
     "QA y automatización - Globant University",
@@ -36,9 +38,22 @@ enfoque_actual:
     "Entrenamiento de LoRA para identidad hiperrealista",
     "Prompt engineering estructurado",
   ]
-aprendiendo_ahora: ["Python", "SQL"]
+destacados:
+  [
+    "100% feedback positivo en evaluaciones de IA - Outlier/Scale Labs",
+    "100/100 en evaluaciones de calidad Apple sobre 4,000+ dispositivos/semana",
+  ]
+aprendiendo_ahora: ["Python (Stanford Code in Place)", "SQL"]
 intereses: ["Ciberseguridad y Linux", "Speedcubing competitivo", "Audio de alta fidelidad"]
 ```
+
+*Aplica la misma disciplina de cero-defectos de sus 7+ años en soporte técnico y evaluación de IA (RLHF) al diseño de workflows generativos.*
+
+---
+
+<h2>📌 &nbsp;Caso de estudio destacado</h2>
+
+🔗 **[Pipeline de identidad hiperrealista con IA generativa](TU_LINK_AL_REPO_DEL_PIPELINE_AQUI)** — de brief de cliente a entrega recurrente: entrenamiento de LoRA, control de calidad medible y generación en embudo.
 
 ---
 
