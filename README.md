@@ -45,11 +45,6 @@ destacados:
   ]
 aprendiendo_ahora: ["Python (Stanford Code in Place)", "SQL"]
 intereses: ["Ciberseguridad y Linux", "Speedcubing competitivo", "Audio de alta fidelidad"]
-```
-
-*Aplica la misma disciplina de cero-defectos de sus 7+ años en soporte técnico y evaluación de IA (RLHF) al diseño de workflows generativos.*
-
----
 
 <h2>📌 &nbsp;Caso de estudio destacado</h2>
 
