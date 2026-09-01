@@ -1,6 +1,12 @@
+<!--
+  Plantilla para tu README de perfil de GitHub.
+  Este archivo va en un repo especial llamado exactamente igual a tu usuario
+  (ej. si tu usuario es "ToniUwU", el repo se llama ToniUwU/ToniUwU).
+  Reemplaza cualquier texto en MAYÚSCULAS_CON_GUION con tu info real.
+-->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hola%20Soy%20Toni&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=¡Hola!%20Soy%20Toni&height=100&section=header"/>
 </p>
 
 <h1 align="center">Diseño workflows y entrenamiento de identidad con IA generativa</h1>
@@ -45,10 +51,15 @@ destacados:
   ]
 aprendiendo_ahora: ["Python (Stanford Code in Place)", "SQL"]
 intereses: ["Ciberseguridad y Linux", "Speedcubing competitivo", "Audio de alta fidelidad"]
+```
+
+*Misma disciplina de cero-defectos de  7+ años en soporte técnico y evaluación de IA (RLHF) al diseño de workflows generativos.*
+
+---
 
 <h2>📌 &nbsp;Caso de estudio destacado</h2>
 
-🔗 **[Pipeline de identidad hiperrealista con IA generativa](TU_LINK_AL_REPO_DEL_PIPELINE_AQUI)** — de brief de cliente a entrega recurrente: entrenamiento de LoRA, control de calidad medible y generación en embudo.
+🔗 **[Pipeline de identidad hiperrealista con IA generativa](LINK_AL_REPO_DEL_PIPELINE_AQUI)** — de brief de cliente a entrega recurrente: entrenamiento de LoRA, control de calidad medible y generación en embudo.
 
 ---
 
