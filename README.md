@@ -1,24 +1,19 @@
-<!--
-  Plantilla para tu README de perfil de GitHub.
-  Este archivo va en un repo especial llamado exactamente igual a tu usuario
-  (ej. si tu usuario es "ToniUwU", el repo se llama ToniUwU/ToniUwU).
-  Reemplaza cualquier texto en MAYÚSCULAS_CON_GUION con tu info real.
--->
+
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=¡Hola!%20Soy%20Toni&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Soy%20Toni&height=100&section=header"/>
 </p>
 
 <h1 align="center">Diseño workflows y entrenamiento de identidad con IA generativa</h1>
 
 <p align="center">
-  <a href="TU_LINK_LINKEDIN_AQUI">
+  <a href="https://linkedin.com/in/marcocorona-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="TU_LINK_WORKANA_AQUI">
+  <a href="Pendiente">
     <img src="https://img.shields.io/badge/Workana-1AAB4E?style=for-the-badge"/>
   </a>
-  <a href="TU_LINK_UPWORK_AQUI">
+  <a href="Pendiente">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
 </p>
@@ -46,10 +41,10 @@ enfoque_actual:
   ]
 destacados:
   [
-    "100% feedback positivo en evaluaciones de IA - Outlier/Scale Labs",
+    "98% feedback positivo en evaluaciones de IA - Outlier/Scale Labs",
     "100/100 en evaluaciones de calidad Apple sobre 4,000+ dispositivos/semana",
   ]
-aprendiendo_ahora: ["Python (Stanford Code in Place)", "SQL"]
+aprendiendo_ahora: ["Python (Stanford)", "SQL"]
 intereses: ["Ciberseguridad y Linux", "Speedcubing competitivo", "Audio de alta fidelidad"]
 ```
 
