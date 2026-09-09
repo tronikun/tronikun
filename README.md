@@ -54,7 +54,7 @@ intereses: ["Ciberseguridad y Linux", "Speedcubing competitivo", "Audio de alta 
 
 <h2>📌 &nbsp;Caso de estudio destacado</h2>
 
-🔗 **[Pipeline de identidad hiperrealista con IA generativa](LINK_AL_REPO_DEL_PIPELINE_AQUI)** — de brief de cliente a entrega recurrente: entrenamiento de LoRA, control de calidad medible y generación en embudo.
+🔗 **[Pipeline de identidad hiperrealista con IA generativa](https://github.com/tronikun/identity-pipeline-lora)** — de brief de cliente a entrega recurrente: entrenamiento de LoRA, control de calidad medible y generación en embudo.
 
 ---
 
