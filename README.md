@@ -22,7 +22,6 @@ ubicacion: CDMX / Monterrey · Remoto
 rol_actual: Técnico IT y AI Trainer freelance
 formacion:
   [
-    "Técnico en Informática - CBT No. 4, CDMX",
     "7+ años en soporte técnico Apple (certificaciones ACMT, ACIT)",
     "Desarrollo backend - Oracle Next Education (Java / Spring Boot)",
     "QA y automatización - Globant University",
