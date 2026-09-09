@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Soy%20Toni&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20&height=100&section=header"/>
 </p>
 
 <h1 align="center">Diseño workflows y entrenamiento de identidad con IA generativa</h1>
