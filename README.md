@@ -10,12 +10,6 @@
   <a href="https://linkedin.com/in/marcocorona-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="Pendiente">
-    <img src="https://img.shields.io/badge/Workana-1AAB4E?style=for-the-badge"/>
-  </a>
-  <a href="Pendiente">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
-  </a>
 </p>
 
 ---
